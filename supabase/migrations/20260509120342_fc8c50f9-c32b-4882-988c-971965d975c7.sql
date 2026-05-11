@@ -1,0 +1,1 @@
+REVOKE ALL ON FUNCTION public.tg_lancar_comissao() FROM PUBLIC, anon, authenticated;

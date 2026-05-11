@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS receber_notificacoes boolean NOT NULL DEFAULT false;

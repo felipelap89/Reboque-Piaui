@@ -1,0 +1,1 @@
+alter table public.servicos alter column numero drop not null;
